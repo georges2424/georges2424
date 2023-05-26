@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georges2424
 - 👀 I’m interested in DevOps methodologies 
-- 🌱 I’m currently learning development tools like Python and Java
 - 💞️ I’m looking to collaborate on devops CICD methods
 - 📫 How to reach me ... moforges@gmail.com
 
